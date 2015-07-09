@@ -1,7 +1,11 @@
 <?php
 
-	public function sample(){
-		print "hello world!";
+	class sampleClass (){
+
+		public function sample(){
+			print "hello world!";
+		}
+
 	}
 
 ?>
