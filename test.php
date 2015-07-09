@@ -1,6 +1,8 @@
 <?php
 
-	class sampleClass (){
+	namespace test;
+
+	class SampleClass (){
 
 		public function sample(){
 			print "hello world!";
